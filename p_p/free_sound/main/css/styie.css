@@ -787,8 +787,6 @@ header button p {
   left: 516px;
 }
 
-
-
 /* ----------   wrap_2 세팅 -------- */
 
 .wrap_4_2 {
@@ -849,12 +847,9 @@ header button p {
 
   align-items: center;
   flex-direction: row;
-
-
 }
 
 .big_con_wrap_4_2_1 {
-
   position: absolute;
   top: 0;
   left: 0;
@@ -866,7 +861,6 @@ header button p {
 }
 
 .big_con_wrap_4_2_2 {
-
   height: 250px;
   position: absolute;
   bottom: 0;
@@ -881,13 +875,11 @@ header button p {
 
 /* ---------------------------------------------*/
 
-
-
 /*--------------------------------------------- */
 
 .con_4_2 {
   width: 300px;
-  height: 230px;
+  height: 200px;
 
   border-radius: 20px;
   overflow: hidden;
@@ -1150,13 +1142,11 @@ footer a {
 
 /* ----------반응형 버전-----------  */
 
-@media screen and (max-width:1700px) {
-
+@media screen and (max-width: 1700px) {
   .title_wrap_4 {
     margin-right: 100px;
     height: 100%;
   }
-
 }
 
 /* 탭 */
@@ -1486,9 +1476,7 @@ footer a {
   }
 
   .move_wrap_4_2 {
-
     height: 0;
-
   }
 
   .sound_wawe_wrap .big_con_wrap_3:nth-child(2) {
@@ -1760,7 +1748,6 @@ footer a {
 
   /* ------------------   section_4 기본 폰  768p 반응형 ------------------ */
 
-
   .con_in_title_wrap_4 h5 {
     font-size: 16px;
     font-weight: 700;
@@ -1781,7 +1768,6 @@ footer a {
 
   .con_4_2 {
     width: 400px;
-    ;
     height: 200px;
     margin: 0 10px;
   }
@@ -1790,15 +1776,11 @@ footer a {
     margin-right: 0;
   }
 
-
   .move_wrap_4_2 {
-
     height: 200px;
-
   }
 
   .swiper-slide {
-
     width: 280px;
   }
 
@@ -1814,7 +1796,6 @@ footer a {
   .con_5 {
     width: 380px;
     padding: 10px 15px;
-
   }
 
   .top_title_wrap_5 h6 {
@@ -1844,7 +1825,6 @@ footer a {
   }
 
   .big_con_wrap_4_22 {
-
     height: 100%;
   }
 
@@ -1874,7 +1854,6 @@ footer a {
 }
 
 @media screen and (max-width: 393px) {
-
   /* ------------------   section_5 393 폰 반응형 ------------------ */
   .wrap_4_2 {
     display: none;
@@ -1893,7 +1872,6 @@ footer a {
     height: 200px;
     margin: 0;
   }
-
 
   .con_5 {
     width: 350px;
@@ -1919,7 +1897,6 @@ footer a {
   }
 
   .swiper {
-
     height: 200px;
   }
 
@@ -1952,5 +1929,4 @@ footer a {
     align-items: center;
     justify-content: start;
   }
-
 }
